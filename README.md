@@ -16,6 +16,9 @@ programe is ended
 
 ## Program:
 ```
+Developed by:M.PRANATHI
+Refrence number:22005710
+
 import numpy as np
 a=np.array([[4,2],[2,4]])
 values,vectors=np.linalg.eig(a)
